@@ -11,8 +11,8 @@ cypress/screenshots
 cypress/videos
 
 # production
-/build
-/lib
+# /build
+
 
 # misc
 .idea

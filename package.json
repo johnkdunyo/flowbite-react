@@ -53,7 +53,8 @@
     "classnames": "^2.3.1",
     "commitizen": "^4.2.4",
     "react-icons": "^4.3.1",
-    "react-indiana-drag-scroll": "^2.1.0"
+    "react-indiana-drag-scroll": "^2.1.0",
+    "yarn": "^1.22.19"
   },
   "peerDependencies": {
     "flowbite": "^1",
