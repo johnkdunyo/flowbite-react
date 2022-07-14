@@ -250,7 +250,7 @@ export default {
       wrapper: 'absolute bottom-5 left-1/2 flex -translate-x-1/2 space-x-3',
     },
     item: {
-      base: 'absolute top-1/2 left-1/2 block w-full -translate-x-1/2 -translate-y-1/2',
+      base: 'absolute top-1/2 left-1/2 block w-full -translate-x-1/2 -translate-y-1/2 rounded-none',
       wrapper: 'w-full flex-shrink-0 transform cursor-grab snap-center',
     },
     control:{
